@@ -1,5 +1,7 @@
 package commandes;
 
+import io.github.helyion.commandes.CommandeFrancaise;
+import io.github.helyion.commandes.CommandeInternationale;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

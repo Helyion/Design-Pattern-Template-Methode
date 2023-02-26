@@ -1,4 +1,4 @@
-package commandes;
+package io.github.helyion.commandes;
 
 /**
  * @author ouziri
